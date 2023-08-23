@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/pokemen-battle/static/css/main.a2cc3717.chunk.css",
-    "main.js": "/pokemen-battle/static/js/main.c6131469.chunk.js",
-    "main.js.map": "/pokemen-battle/static/js/main.c6131469.chunk.js.map",
+    "main.css": "/pokemen-battle/static/css/main.d0c5e96d.chunk.css",
+    "main.js": "/pokemen-battle/static/js/main.ec0b93d1.chunk.js",
+    "main.js.map": "/pokemen-battle/static/js/main.ec0b93d1.chunk.js.map",
     "runtime-main.js": "/pokemen-battle/static/js/runtime-main.29120cc0.js",
     "runtime-main.js.map": "/pokemen-battle/static/js/runtime-main.29120cc0.js.map",
     "static/js/2.f3b1d36c.chunk.js": "/pokemen-battle/static/js/2.f3b1d36c.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.61c0c98a.chunk.js": "/pokemen-battle/static/js/3.61c0c98a.chunk.js",
     "static/js/3.61c0c98a.chunk.js.map": "/pokemen-battle/static/js/3.61c0c98a.chunk.js.map",
     "index.html": "/pokemen-battle/index.html",
-    "static/css/main.a2cc3717.chunk.css.map": "/pokemen-battle/static/css/main.a2cc3717.chunk.css.map",
+    "static/css/main.d0c5e96d.chunk.css.map": "/pokemen-battle/static/css/main.d0c5e96d.chunk.css.map",
     "static/js/2.f3b1d36c.chunk.js.LICENSE.txt": "/pokemen-battle/static/js/2.f3b1d36c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.29120cc0.js",
     "static/js/2.f3b1d36c.chunk.js",
-    "static/css/main.a2cc3717.chunk.css",
-    "static/js/main.c6131469.chunk.js"
+    "static/css/main.d0c5e96d.chunk.css",
+    "static/js/main.ec0b93d1.chunk.js"
   ]
 }
